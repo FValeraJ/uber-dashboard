@@ -90,4 +90,4 @@ Este proyecto fue desarrollado como demostración de habilidades en:
 
 ## Autor
 
-Desarrollado como parte de un portafolio profesional de análisis de datos y desarrollo de aplicaciones.
+Desarrollado como parte de un portafolio profesional de análisis de datos.
