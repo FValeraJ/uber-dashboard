@@ -26,7 +26,7 @@ Este proyecto es un dashboard interactivo desarrollado en Python que permite ana
 ## Estructura del Proyecto
 
 ```
-proyecto/
+uber-dashboard/
 ├── data/                 # Carpeta para datasets
 │   └── ncr_ride_bookings.csv  # Dataset principal (opcional)
 ├── __pycache__/         # Archivos de caché de Python
