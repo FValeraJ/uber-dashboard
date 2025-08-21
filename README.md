@@ -47,10 +47,8 @@ python app.py
 ## Estructura de Archivos
 
 ```
-proyecto/
-├── data/
-│   └── ncr_ride_bookings.csv  # Dataset principal (opcional)
-├── __pycache__/               # Archivos de caché de Python
+uber-dashboard/
+├── ncr_ride_bookings.csv  # Dataset principal (opcional)
 ├── .gitignore                 # Archivos ignorados por Git
 ├── LICENSE                    # Licencia del proyecto
 ├── README.md                  # Este archivo
