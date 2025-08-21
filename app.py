@@ -74,7 +74,7 @@ def load_dataset():
     
     # Rutas posibles para el dataset (puedes agregar más rutas aquí)
     possible_paths = [
-        r"C:\Users\xenia\OneDrive\Desktop\CODE\uber-dashboard\data\ncr_ride_bookings.csv",
+        r"uber-dashboard\data\ncr_ride_bookings.csv",
         "./data/ncr_ride_bookings.csv",
         "./ncr_ride_bookings.csv",
         "data/ncr_ride_bookings.csv",
@@ -517,4 +517,5 @@ if __name__ == "__main__":
     print("🚀 Iniciando Dashboard de Análisis de Viajes...")
     print("📊 Dashboard optimizado para portafolio profesional")
     print("🔗 Accede en: http://127.0.0.1:8050")
+
     app.run(debug=True, host='127.0.0.1', port=8050)
